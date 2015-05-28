@@ -17,9 +17,9 @@ L'exemple de traitement permet de :
 	  
 **Voir la vidéo : fichier Mp4**
 	  
-**Note 1 : Les données de cours d'eau et de points doivent être dans la même base spatiale. Depuis QGIS, un glisser déplacer depuis l'onglet "parcouri" vers la base permet de réaliser ce chargement simplement.** 
+*Note 1 : Les données de cours d'eau et de points doivent être dans la même base spatiale. Depuis QGIS, un glisser déplacer depuis l'onglet "parcouri" vers la base permet de réaliser ce chargement simplement.* 
 
-**Note 2 : Il est très simple de raffiner la technique en ajoutant des règles de priorité autres que la distance (longueur, débit, filtre selon la nature du cours d'eau) pour un raccrochement automatique plus pertinent**
+*Note 2 : Il est très simple de raffiner la technique en ajoutant des règles de priorité autres que la distance (longueur, débit, filtre selon la nature du cours d'eau) pour un raccrochement automatique plus pertinent*
 	
 	  
 Auteur : Régis Haubourg - Agence de l'eau Adour Garonne	  
