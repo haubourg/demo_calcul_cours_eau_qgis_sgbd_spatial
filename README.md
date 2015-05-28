@@ -1,4 +1,5 @@
-# demo_calcul_cours_eau_qgis_sgbd_spatial
+# Démonstration de traitement SIG: raccrocher des code de cours d'eau à des ouvrages ponctuels, en exploitant QGIS et une base de données spatiale
+
 Exemple de traitement de données spatiale fréquent, de raccrochement attributaire de points à des cours d'eau.
 
 
