@@ -16,7 +16,7 @@ L'exemple de traitement permet de :
 	  3- Editer manuellement les relations restantes pour arbitrer quel code affecter. 
 	  4- lancer une mise à jour de la table de point à partir de cette table de relations.
 	  
-**[Voir la vidéo](https://github.com/haubourg/demo_calcul_cours_eau_qgis_sgbd_spatial/blob/master/Demo_calcul_cours_eau.mp4)**
+**[Voir la vidéo](https://youtu.be/2Qt0x-OBcrY)**
 	  
 *Note 1 : Les données de cours d'eau et de points doivent être dans la même base spatiale. Depuis QGIS, un glisser déplacer depuis l'onglet "parcouri" vers la base permet de réaliser ce chargement simplement.* 
 
